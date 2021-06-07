@@ -1,0 +1,40 @@
+h1{
+    display:flex;
+    justify-content:center;
+    color:red;
+}
+h2{
+    color:rgb(45, 0, 128);
+    display:flex;
+    justify-content:center;
+}
+h3{
+    color:rgb(45, 0, 128);
+    display:flex;
+    justify-content:center;
+}
+i{
+    color:red;
+}
+*{
+    background-color:lightblue;
+    border:solid;
+}
+ul{
+    color:blue;
+}
+.header{
+    background-color:lightblue;
+    display:flex;
+    justify-content:flex-end;
+}
+.item1{
+    background-color:lightblue;
+    display:flex;
+    justify-content:flex-end;
+}
+.footer{
+    background-color:lightblue;
+    display:flex;
+    justify-content:flex-end;
+}
